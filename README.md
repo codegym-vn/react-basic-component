@@ -23,3 +23,6 @@ Text, TextInput, Image, Picker, Button, Switch
 - Mỗi TextInput, Picker, Switch đều có hàm onChangeValue
 - SetState mới cho giá trị từng component
 - Sử dụng Alert để hiển thị state.
+
+# Giao diện như sau
+![alt](https://github.com/anhtbok92/05BasicComponentReactNativeTraining/tree/master/img/Ketqua.PNG)
