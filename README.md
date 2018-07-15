@@ -7,7 +7,7 @@
 + Image
 + Button
 + Picker
-+ StatusBar
++ Switch
 
 # Nội dung bài tập
 - Tạo App có 1 component App
@@ -21,4 +21,5 @@ Text, TextInput, Image, Picker, Button, Switch
 # Hướng dẫn cơ bản
 - Giao diện sử dụng các basic component của React Native
 - Mỗi TextInput, Picker, Switch đều có hàm onChangeValue
-- SetState cho mới cho giá trị từng component
+- SetState mới cho giá trị từng component
+- Sử dụng Alert để hiển thị state.
