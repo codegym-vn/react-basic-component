@@ -25,4 +25,4 @@ Text, TextInput, Image, Picker, Button, Switch
 - Sử dụng Alert để hiển thị state.
 
 # Giao diện như sau
-![alt](https://github.com/anhtbok92/05BasicComponentReactNativeTraining/tree/master/img/Ketqua.PNG)
+![alt](https://github.com/anhtbok92/05BasicComponentReactNativeTraining/blob/master/img/Ketqua.PNG)
