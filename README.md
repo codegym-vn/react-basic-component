@@ -1,5 +1,5 @@
 # 05_Basic Component React Native Training
-
+Mã nguồn 05_Basic Component React Native Training được sử dụng để thực hành tại [CodeGym](https://codegym.vn)
 # Mục tiêu bài tập
 - Biết sử dụng các react basic component
 + Text
